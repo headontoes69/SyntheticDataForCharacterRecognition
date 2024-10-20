@@ -8,7 +8,9 @@
 7) randomly applying rotational angle of the generated text within a range of -10 to 10 degrees. Overall, these different random effects when combined offer a large variety of test examples to assess the prediction capabilities of this TrOCR model: >~1.8 million possibilities (100 different color effect x 10 different fonts x 21 font sizes x 2 (with and without blur) x 2 (with and without noise) x 21 rotational angles (using the integers to estimate the lower ends, as actual angles are floating points and thus have much large angle ranges)
 
 a) Cases 1, 9 and 10: All seven factors mentioned above are randomized.
+
 b) Case 2: Texts are the same with Case 1, but all other six effects are fixed at black/white for font/background colors, 30 font size, Arial font, no blur, no noise, and no rotation.
+
 c) Cases 3-8: Texts are the same with Case 1, and each of the six effects from 2) to 7) as mentioned above is fixed at black/white for font/background colors, 30 font size, Arial font, no blur, no noise, and no rotation, respectively, while all other effects are the same with Case 1 texts.
 
 Note: 
