@@ -14,4 +14,5 @@ b) Case 2: Texts are the same with Case 1, but all other six effects are fixed a
 c) Cases 3-8: Texts are the same with Case 1, and each of the six effects from 2) to 7) as mentioned above is fixed at black/white for font/background colors, 30 font size, Arial font, no blur, no noise, and no rotation, respectively, while all other effects are the same with Case 1 texts.
 
 Note: 
-These 10 case zip files are named as imageCase1-1.zip, imageCase2-1.zip, imageCase3-1.zip, imageCase4-1.zip, imageCase5-1.zip, imageCase6-1.zip, imageCase7-1.zip, imageCase8-1.zip, imageCase9.zip, imageCase10.zip
+These 12 case zip files are named as imageCase1-1.zip, imageCase2-1.zip, imageCase3-1.zip, imageCase4-1.zip, imageCase5-1a.zip, imageCase5-1b, imageCase6-1a.zip, imageCase6-1b.zip, imageCase7-1.zip, imageCase8-1.zip, imageCase9.zip, imageCase10.zip
+In each case folder the output.txt is the original texts file.
